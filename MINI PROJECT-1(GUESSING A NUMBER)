@@ -1,0 +1,17 @@
+# MINI PROJECT ON GUESSING A NUMBER
+'''import random
+target=random.randint(1,100)
+while True:
+    userchoice=int(input("guess the number or quit:"))
+    if(userchoice==quit):
+        break
+    userchoice=int(userchoice)
+    if(target==userchoice):
+        print("success : correct guess!!")
+        break
+    elif(userchoice<target):
+        print("YOUR NUMBER IS TOO SMALL.TAKE A bIGGER GUESS....")
+    else:
+        print("YOUR NUMBER IS TOO BIG.TAKE A SMALLER GUESS....")
+
+print("_ _ GAME OVER _ _")'''
